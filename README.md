@@ -1,5 +1,4 @@
-# Code Refactor Starter Code
-# <Your-Project-Title>
+# Refactored Horiseon Website
 
 ## Description
 
@@ -10,6 +9,10 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
- ![alt text](assets/images/my-horiseon-webpage.png)
+## Webpage 
+
+ ![My Horiseon website refactored](assets/images/my-horiseon-webpage.png)
+
+ ## Link
 
  https://danieltbonn.github.io/horiseon-accessibility-refactor/
