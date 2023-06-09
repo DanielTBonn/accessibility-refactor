@@ -63,6 +63,7 @@ a {
 }
 
 /* Changed the order of the .search-engine-optimization, .online-reputation-management, .social-media-marketing, and p selectors to fit with html structure*/
+/* Consolidated redundant .search-engine-optimization, .online-reputation-management, .social-media-marketing selectors*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -112,6 +113,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated redundant .benefit-lead, .benefit-brand, and .benefit-cost selectors*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -140,3 +142,5 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+/* Deleted an unncessary .footer h2 selector */
